@@ -1,0 +1,2307 @@
+[
+    {
+        "outputFile": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 114,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 107,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 122,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 122,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 101,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 101,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 111,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 111,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 85,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 85,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 104,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 104,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 119,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 119,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 78,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 78,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 77,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 77,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 79,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 79,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 105,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 105,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 107,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 107,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 97,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 97,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endColumn": 108,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 108,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 105,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 105,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1690,
+                    "endColumn": 107,
+                    "endOffset": 1793
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 107,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endColumn": 135,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 135,
+                        "endOffset": 1929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 99,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 99,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endColumn": 100,
+                    "endOffset": 2130
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 100,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2135,
+                    "endColumn": 61,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 46,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 46,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 141,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 141,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2386,
+                    "endColumn": 125,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 125,
+                        "endOffset": 427
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 114,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 107,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 122,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 122,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 101,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 101,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 111,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 111,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 85,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 85,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 104,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 104,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 119,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 119,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 78,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 78,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 77,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 77,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 79,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 79,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 105,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 105,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 107,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 107,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 97,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 97,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endColumn": 108,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 108,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 105,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 105,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1690,
+                    "endColumn": 107,
+                    "endOffset": 1793
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 107,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endColumn": 135,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 135,
+                        "endOffset": 1929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 99,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 99,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endColumn": 100,
+                    "endOffset": 2130
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 100,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2135,
+                    "endColumn": 61,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\20435b011be36f8b8ee8e1818c0246f1058741a3\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 46,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\20435b011be36f8b8ee8e1818c0246f1058741a3\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 46,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 141,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\20435b011be36f8b8ee8e1818c0246f1058741a3\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 141,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2386,
+                    "endColumn": 125,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\20435b011be36f8b8ee8e1818c0246f1058741a3\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 125,
+                        "endOffset": 427
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 114,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 107,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 122,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 122,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 101,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 101,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 111,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 111,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 85,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 85,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 104,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 104,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 119,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 119,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 78,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 78,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 77,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 77,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 79,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 79,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 105,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 105,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 107,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 107,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 97,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 97,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endColumn": 108,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 108,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 105,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 105,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1690,
+                    "endColumn": 107,
+                    "endOffset": 1793
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 107,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endColumn": 135,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 135,
+                        "endOffset": 1929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 99,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 99,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endColumn": 100,
+                    "endOffset": 2130
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 100,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2135,
+                    "endColumn": 61,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 46,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 46,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 141,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 141,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2386,
+                    "endColumn": 125,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 125,
+                        "endOffset": 427
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 114,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 107,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 122,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 122,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 101,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 101,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 111,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 111,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 85,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 85,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 104,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 104,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 119,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 119,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 78,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 78,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 77,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 77,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 79,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 79,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 105,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 105,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 107,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 107,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 97,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 97,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endColumn": 108,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 108,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 105,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 105,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1690,
+                    "endColumn": 107,
+                    "endOffset": 1793
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 107,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endColumn": 135,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 135,
+                        "endOffset": 1929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 99,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 99,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endColumn": 100,
+                    "endOffset": 2130
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 100,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2135,
+                    "endColumn": 61,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 46,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 46,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 141,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 141,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2386,
+                    "endColumn": 125,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\7b8ce04dd29e03021407f399a3800ca217ff78ec\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 125,
+                        "endOffset": 427
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 114,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 107,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 122,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 122,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 101,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 101,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 111,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 111,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 85,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 85,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 104,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 104,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 119,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 119,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 78,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 78,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 77,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 77,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 79,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 79,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 105,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 105,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 107,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 107,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 97,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 97,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endColumn": 108,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 108,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 105,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 105,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1690,
+                    "endColumn": 107,
+                    "endOffset": 1793
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 107,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endColumn": 135,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 135,
+                        "endOffset": 1929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 99,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 99,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endColumn": 100,
+                    "endOffset": 2130
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 100,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2135,
+                    "endColumn": 61,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\20435b011be36f8b8ee8e1818c0246f1058741a3\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 46,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\20435b011be36f8b8ee8e1818c0246f1058741a3\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 46,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 141,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\20435b011be36f8b8ee8e1818c0246f1058741a3\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 141,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2386,
+                    "endColumn": 125,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\20435b011be36f8b8ee8e1818c0246f1058741a3\\output\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 125,
+                        "endOffset": 427
+                    }
+                }
+            }
+        ]
+    }
+]

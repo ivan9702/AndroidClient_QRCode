@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B9B9FF</color>
+    <color name="colorPrimaryDark">#a4bd09</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="focus_color">#7f33b5e5</color>
+    <color name="text_color">#6A3906</color>
+    <color name="bg_search_color">#6A3906</color>
+    <color name="gray_text">#aaaaaa</color>
+    <color name="gray_shadow_color">#88888888</color>
+    <color name="bg_category_color">#cbde5a</color>
+    <color name="fg_category_color">#e5efac</color>
+    <color name="selected_category_text">#a4bd09</color>
+    <color name="normal_category_text">#ffffff</color>
+    <color name="gray_backgroud">#eeeeee</color>
+    <color name="black_shadow_color">#CC000000</color>
+    <color name="drawer_divider">#a4bd09</color>
+    <color name="dialog_color">#ff33b5e5</color>
+    <color name="popup_title_color">#ff33b5e5</color>
+    <color name="device_color_bg">#ff85D7D1</color>
+    <color name="tutor_bg">#FF5230</color>
+    <color name="time_text">#999999</color>
+    <color name="notifications_dot">#FF5230</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="black_70">#B2000000</color>
+    <color name="drop_down_divider">#eeeeee</color>
+</resources>

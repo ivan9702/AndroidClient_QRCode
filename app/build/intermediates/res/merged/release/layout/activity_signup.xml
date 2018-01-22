@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+            <TextView
+                android:id="@+id/indicator"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text=""
+                android:textSize="16sp"
+                android:textColor="@android:color/holo_red_light"
+                android:background="@android:color/white"
+                android:visibility="invisible"/>/>
+
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/startek_logo" />
+
+            <ImageView
+                android:id="@+id/fp_enroll"
+                android:layout_width="134dp"
+                android:layout_height="162dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/hr_info"
+                android:textSize="24sp"/>
+
+            <EditText
+                android:id="@+id/reg_name"
+                style="@style/InputNo1"
+                android:layout_marginTop="2dp"
+                android:hint="@string/hint_name"
+                android:windowSoftInputMode="stateHidden|adjustPan" />
+
+            <EditText
+                android:id="@+id/reg_staff_no"
+                style="@style/InputNo1"
+                android:layout_marginTop="8dp"
+                android:hint="@string/staff_no"
+                android:inputType="textVisiblePassword"
+                android:windowSoftInputMode="stateHidden|adjustPan" />
+
+            <EditText
+                android:id="@+id/reg_email"
+                style="@style/InputNo1"
+                android:layout_marginTop="8dp"
+                android:hint="@string/hint_email"
+                android:inputType="textEmailAddress"
+                android:windowSoftInputMode="stateHidden|adjustPan" />
+
+            <EditText
+                android:id="@+id/reg_age"
+                style="@style/InputNo1"
+                android:layout_marginTop="8dp"
+                android:hint="@string/age"
+                android:inputType="textVisiblePassword"
+                android:windowSoftInputMode="stateHidden|adjustPan"/>
+
+            <EditText
+                android:id="@+id/reg_phone"
+                style="@style/InputNo1"
+                android:layout_marginTop="8dp"
+                android:hint="@string/phone"
+                android:inputType="textVisiblePassword"
+                android:windowSoftInputMode="stateHidden|adjustPan"/>
+
+
+    <Button
+        android:id="@+id/btn_register"
+        style="@style/ButtonNo2"
+        android:layout_marginTop="20dp"
+        android:enabled="false"
+        android:onClick="onRegisterClick"
+        android:text="@string/btn_register" />
+
+
+</LinearLayout>

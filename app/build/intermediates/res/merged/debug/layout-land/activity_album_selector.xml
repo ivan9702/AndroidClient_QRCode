@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              xmlns:res="http://schemas.android.com/apk/res-auto"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              tools:context=".AlbumSelectorActivity"
+              android:background="@android:color/white">
+
+    <GridView
+        android:id="@+id/albums"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:gravity="center_horizontal"
+        android:background="#FFFFFF"
+        android:paddingTop="30dp"
+        android:verticalSpacing="10dp"
+        android:numColumns="3"
+        android:scrollbars="vertical"/>
+
+
+
+    <LinearLayout
+        android:id="@+id/piceditline"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@android:color/white"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/camera"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onCameraClick"
+            android:drawableTop="@drawable/btn_camera_03"
+            android:drawablePadding="10dp"
+            android:text="@string/take_photo"
+            android:textSize="16sp"
+            android:background="@android:color/white"
+            android:scaleType="fitCenter"/>
+
+
+
+        <Button
+            android:id="@+id/Scanner"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onScannerClick"
+            android:drawableTop="@drawable/btn_memo_02"
+            android:drawablePadding="10dp"
+            android:text="@string/Scanner"
+            android:textSize="16sp"
+            android:background="@android:color/white"
+            android:scaleType="fitCenter"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:2:1-101:12
+	package
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:2:11-38
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:3:11-69
+uses-feature#android.hardware.usb.host
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:7:5-62
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:7:19-59
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:12:5-64
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:14:22-76
+application
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:17:5-99:15
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ivan\.android\build-cache\6fa0af821ec12e272ad22c03db613574ea5d883c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ivan\.android\build-cache\84dad2506444df7a193a2befafcb2eea34cfd84a\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ivan\.android\build-cache\8233197d0c7901f9bcf64a6e1722381eed95b72c\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ivan\.android\build-cache\bd8abbae806debe4374fe79dd581984c456e2ff8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:45:5-53:19
+	android:label
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.startek.fm220.FirstScreenActivity
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:23:13-60
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:22:13-65
+category#android.intent.category.DEFAULT
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:25:13-71
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:25:23-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.startek.fm220.AlbumSelectorActivity
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:label
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:33:13-67
+activity#com.startek.fm220.fpScanActivity
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:38:9-52:20
+	android:screenOrientation
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:42:13-45
+	android:configChanges
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:39:13-60
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:43:13-48:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:44:17-89
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:44:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:49:13-51:56
+	android:resource
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:51:17-54
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:50:17-79
+activity#com.startek.fm220.tstlib
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:54:9-67:20
+	android:label
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:57:13-45
+	android:configChanges
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:56:13-74
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:55:13-52
+activity#com.startek.fm220.SignInActivity
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:69:9-79:20
+	android:label
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:72:13-45
+	android:configChanges
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:71:13-74
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:70:13-60
+activity#com.startek.fm220.GridViewActivity
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:81:9-82:14
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:81:19-68
+activity#com.startek.fm220.SiguUpActivity
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:83:9-85:15
+	android:screenOrientation
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:83:19-66
+activity#com.startek.fm220.ImageDetailsActivity
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:86:9-87:16
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:86:19-72
+activity#com.startek.fm220.QrcodeScanActivity
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:88:9-94:15
+	android:screenOrientation
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:90:13-49
+	android:stateNotNeeded
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:91:13-42
+	android:windowSoftInputMode
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:93:13-60
+	android:theme
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:92:13-54
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:89:13-64
+activity#com.startek.fm220.ShowRegisterInfo
+ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:95:9-97:15
+	android:screenOrientation
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:96:13-49
+	android:name
+		ADDED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml:95:19-68
+uses-sdk
+INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Ivan\.android\build-cache\0eb263307ed42749017d0492e820e791447679ee\output\AndroidManifest.xml:18:5-42
+MERGED from [com.orhanobut:logger:1.15] C:\Users\Ivan\.android\build-cache\59218e1170076dcb42387b471a500b3372cf4269\output\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ivan\.android\build-cache\6fa0af821ec12e272ad22c03db613574ea5d883c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ivan\.android\build-cache\84dad2506444df7a193a2befafcb2eea34cfd84a\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ivan\.android\build-cache\8233197d0c7901f9bcf64a6e1722381eed95b72c\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ivan\.android\build-cache\bd8abbae806debe4374fe79dd581984c456e2ff8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:19:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ivan\.android\build-cache\6fa0af821ec12e272ad22c03db613574ea5d883c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\StartekFM220Demo_0728_10\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:46:9-52:63
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:48:13-45
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:49:13-56
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Ivan\.android\build-cache\7b8ce04dd29e03021407f399a3800ca217ff78ec\output\AndroidManifest.xml:47:13-74

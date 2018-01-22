@@ -1,0 +1,692 @@
+[
+    {
+        "outputFile": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

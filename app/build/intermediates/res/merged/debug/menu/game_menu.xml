@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game"
+    android:icon="@drawable/ic_action_new"
+    android:title="@string/signup"
+    android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/new_ip"
+        android:icon="@drawable/ic_action_new"
+        android:title="@string/server_ip"
+        android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/new_port"
+        android:icon="@drawable/ic_action_new"
+        android:title="@string/new_port"
+        android:showAsAction="ifRoom"/>
+
+
+
+</menu>

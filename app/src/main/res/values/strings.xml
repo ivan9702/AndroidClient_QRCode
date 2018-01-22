@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TstlibActivity!</string>
+    <string name="app_name">Fingerprint Signature</string>
+	<string name="hello_world">Hello world!</string>
+    <string name="title_activity_image">Picture</string>
+    <string name="take_photo">Camera</string>
+    <string name="signup">Sign Up</string>
+    <string name="Scanner">Scanner</string>
+    <string name="selected_frames">Selected Pixer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="deviceTitle"> Fingerprint Snapshot </string>
+    <string name="token_expired">You have been inactive for a while. Please re-login.</string>
+    <string name="general_request_error">Server response error.\nCode: %1$d\nDescription: %2$s</string>
+    <string name ="usb_disconnect">Please connect to FM220</string>
+    <string name ="unknown_device">Unknown USB Device</string>
+    <string name ="usb_ready">Unknown USB Device is Ready</string>
+    <string name ="usb_connected">USB Device Connected</string>
+    <string name ="information">Information</string>
+    <string name ="press_fp">Please press your Fingerprint</string>
+    <string name="done">Done</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">E-mail</string>
+    <string name="staff_no">staff number</string>
+    <string name="phone">phone number</string>
+    <string name="age">age</string>
+    <string name="btn_register">Register</string>
+    <string name="hr_info">Personal Information</string>
+    <string name="connect_err">connection error</string>
+    <string name="successful">successful</string>
+    <string name="ftp_fail">cannot use file server!</string>
+    <string name="Identify_err">Identify Error !</string>
+    <string name="scan_fail">Scan failure !</string>
+    <string name="search">Searching</string>
+    <string name="permission_denied">permission Denied</string>
+    <string name="enable_permission">Turn on permission</string>
+    <string name="server_ip">IP Setting</string>
+    <string name="new_port">port Setting</string>
+    <string name="ip_Input">Type File Server IP:</string>
+    <string name="port_Input">Type File Server port:</string>
+    <string name="try_again">scan again?</string>
+    <string name="usb_conn_err">Please replug in USB Device!</string>
+    <string name="ok">ok</string>
+
+</resources>

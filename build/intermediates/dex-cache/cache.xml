@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\DATA\StartekFM220Demo_0728_10\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="D:\DATA\StartekFM220Demo_0728_10\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-net-3.3_a75cbb2b6c7fe8c4244ef38f8379c67529f9e78f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DATA\StartekFM220Demo_0728_10\app\libs\open_sdk_r5756.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="D:\DATA\StartekFM220Demo_0728_10\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5756_b7ccfa805a1e4b4a1ccb25597039f3fb0530ac00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DATA\StartekFM220Demo_0728_10\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\DATA\StartekFM220Demo_0728_10\app\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_cb96e5d5f7ac7d7c88cb6ab5cf8777c7c60e93e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DATA\StartekFM220Demo_0728_10\app\libs\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="D:\DATA\StartekFM220Demo_0728_10\app\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.3.0_3b60b77e65b3c27878600c598d1c20c8c9695b0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DATA\StartekFM220Demo_0728_10\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="D:\DATA\StartekFM220Demo_0728_10\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.6-with-sources_a8c05e0758f01a355fb6958a94e5fa7a9a8284d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DATA\StartekFM220Demo_0728_10\app\libs\gwlib_v2.2.9_giga-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="303b8071cb86b7f99ba5af90a60c872ae07a5989">
+        <dex dex="D:\DATA\StartekFM220Demo_0728_10\app\build\intermediates\transforms\dex\debug\folders\1000\2\gwlib_v2.2.9_giga-sdk_fd006f56cc894b3f28472af88fabca92381cbbe6\classes.dex" />
+    </item>
+
+</items>

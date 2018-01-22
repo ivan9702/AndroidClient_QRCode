@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_disabled.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_disabled.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_disabled.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_disabled.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_disabled.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_disabled.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_input_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\bg_input_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_input_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\bg_input_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_disabled.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_disabled.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_normal.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_01.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_normal.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_pressed.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_normal.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_normal.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_pressed.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_new.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_pressed.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_normal.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_normal.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_normal.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_disabled.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_disabled.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_input_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\bg_input_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_input_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\bg_input_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_new.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_new.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_new.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_pressed.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_disabled.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_disabled.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_camera_03_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_camera_03_normal.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_normal.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_pressed.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_pressed.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_pressed.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_memo_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_memo_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\arrow_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_input_01.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\bg_input_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_pressed.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_input_01.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\bg_input_01.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_new.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_pressed.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_02_normal.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_add.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_add.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable-xxhdpi\\btn_selfie_stick_02_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_01_normal.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_01_normal.png"
+    }
+]

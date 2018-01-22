@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id_2.jpg",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\touch_id_2.jpg"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_03.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_camera_03.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default_2.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\press_default_2.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id_2.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\touch_id_2.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add.xml",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\btn_add.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_memo_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_memo_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\press_default.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02_text.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\btn_02_text.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02_text.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_02_text.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selfie.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_selfie.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_03.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\btn_camera_03.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\press_default.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.JPG",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\thumb.JPG"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_01.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_back_01.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default_2.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\press_default_2.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id_2.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\touch_id_2.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_add.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_01.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_back_01.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_01.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_back_01.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\press.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\touch_id.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id_2.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\touch_id_2.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default_2.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\press_default_2.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selfie.xml",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\btn_selfie.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_memo_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_memo_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_03.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_camera_03.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\touch_id.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\press_default.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album_default_loading_pic.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\album_default_loading_pic.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\press_default.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02_text.xml",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\btn_02_text.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_memo_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_memo_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selfie.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_selfie.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.JPG",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\thumb.JPG"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\press.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album_default_loading_pic.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\album_default_loading_pic.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02_text.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_02_text.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id_2.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\touch_id_2.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.JPG",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\thumb.JPG"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\press.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_add.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default_2.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\press_default_2.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02.xml",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\btn_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selfie.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_selfie.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album_default_loading_pic.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\album_default_loading_pic.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id_2.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\touch_id_2.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_memo_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_memo_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album_default_loading_pic.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\album_default_loading_pic.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_add.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_add.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_03.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_camera_03.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\btn_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\press_default.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album_default_loading_pic.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\album_default_loading_pic.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_01.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\btn_back_01.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_03.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_camera_03.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_03.xml",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\btn_camera_03.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\touch_id.jpg"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\press_default.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_01.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_back_01.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selfie.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\btn_selfie.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.JPG",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\thumb.JPG"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_memo_02.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\btn_memo_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id.jpg",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\touch_id.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\src\\main\\res\\drawable\\touch_id.jpg"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album_default_loading_pic.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\album_default_loading_pic.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.JPG",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\thumb.JPG"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default_2.png",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\press_default_2.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\press.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_id.jpg",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\touch_id.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selfie.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_selfie.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_memo_02.xml",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\btn_memo_02.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_01.xml",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\drawable\\btn_back_01.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\press.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.JPG",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\thumb.JPG"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02_text.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\drawable\\btn_02_text.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_default_2.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\press_default_2.png"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0724_17\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press.png",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\press.png"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ivan\\.android\\build-cache\\6fa0af821ec12e272ad22c03db613574ea5d883c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_02_text.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\drawable\\btn_02_text.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\ivan.lin\\.android\\build-cache\\134af3028b1d637f47b003b0354826313888a9bc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    }
+]

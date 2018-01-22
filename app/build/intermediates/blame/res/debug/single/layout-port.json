@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_album_selector.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\layout-port\\activity_album_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_album_selector.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\layout-port\\activity_album_selector.xml"
+    },
+    {
+        "merged": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_album_selector.xml",
+        "source": "D:\\DATA\\StartekFM220Demo_0728_10\\app\\src\\main\\res\\layout-port\\activity_album_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_album_selector.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0726_10\\app\\src\\main\\res\\layout-port\\activity_album_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_album_selector.xml",
+        "source": "D:\\Users\\ivan.lin\\Desktop\\proj\\StartekFM220Demo_0726_10\\D:\\DATA\\StartekFM220Demo_0725_10\\app\\src\\main\\res\\layout-port\\activity_album_selector.xml"
+    }
+]

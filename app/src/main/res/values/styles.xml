@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- OOBE pages, Input field -->
+    <style name="InputNo1">
+        <item name="android:layout_width">260dp</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/bg_input_01</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColorHint">@color/text_color</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ButtonNo2">
+        <item name="android:layout_width">260dp</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@drawable/btn_02_text</item>
+        <item name="android:background">@drawable/btn_02</item>
+    </style>
+
+</resources>
